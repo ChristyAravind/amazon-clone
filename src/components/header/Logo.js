@@ -1,5 +1,4 @@
 import React from 'react';
-
 import BrandLogo from 'images/amazon-logo.png';
 import { Link } from 'react-router-dom';
 
